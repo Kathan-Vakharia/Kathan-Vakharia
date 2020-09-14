@@ -1,16 +1,20 @@
-### Hi there 👋
+## Kathan Vakharia
+<!-- 👯 I’m looking to collaborate on --> 
+Hey Everyone 👋,  I am Kathan.
 
-<!--
-**Kathan-Vakharia/Kathan-Vakharia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a programming bunny 🐇 who loves to explore stuff 🤓 
 
-Here are some ideas to get you started:
+Python 🐍 is Love and Java ☕ is my buddy.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+I also love coding  HTML, CSS, JS, Golang and C language.
+
+
+
+
+- 🔭 I’m currently working as content writer for Allgirlithm 
+- 🌱 I’m currently learning Computer Science
+- 💬 Ask me about python! 
+- 📫 How to reach me: [Twitter](https://twitter.com/kathan_vakharia) [LinkedIn](https://www.linkedin.com/in/kathan-vakharia-a76a07190/)
+- 😄 Pronouns: He/Him
+- ⚡ Fun fact: I am polyglot programmer
 -->
