@@ -16,7 +16,7 @@ I also love coding  HTML, CSS, JS, Golang and C/C++ languages.
 
 
 
-- 🔭 I’m currently improving my Data Structures and Algorithm skils in C++
+- 🔭 I’m currently improving my Data Structures and Algorithm skills in C++
 - 🌱 I’m currently learning Computer Science
 - 💬 Ask me about python! 
 - 📫 How to reach me: [Twitter](https://twitter.com/kathan_vakharia) [LinkedIn](https://www.linkedin.com/in/kathan-vakharia-a76a07190/)
